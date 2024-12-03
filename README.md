@@ -34,6 +34,8 @@ Matorina, N., Meade, M. E., Starenky, J., & Barense, M. D. (2024). Drawing promo
 - Previous work in patient with probable dementia showed a benefit to using drawing as an encoding mechanism, possibly due to the preservation of visual processing regions
 - Patient CT (aged 19 years)presented with a tumour directly above both fornices and invading the right fornix
 - Previous work in the lab showed that CT had mild memory impairments during periods of wake and profound impairments following periods of sleep
+
+  
 <img src="assets/img/CT.jpg" alt="MRI scan" width="312" height="372">
 
 - CT and age-matched controls completed an encoding task wherein they were presented with a series of words and instructed to either draw or write each one. After a 12-hour interval of either sleep or wake, the participants completed a recognition test wherein they were presented with a cue or lure and asked to make a “remember”, “know”, or “new” response
