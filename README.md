@@ -7,7 +7,7 @@ Hello there! My name is Jo, and I'm an upcoming graduate from the University of 
 - B.Sc., Psychology | The University of Toronto (_May 2025 (Expected)_)
 
 # Projects
-### Gender differences in loneliness in couples and singles
+## Gender differences in loneliness in couples and singles
 
 - Prior research has found that women experience unique challenges in relationships compared to men, such as uneven distribution of labour and emotional caretaking (ie. Yan-Liang et al, 2023; Weddel et al., 2022; Steelman, J., 2007)
 - Recent discussions online and [in media](https://www.yahoo.com/news/men-carrying-brunt-loneliness-epidemic-122729356.html) have suggested that there is an emerging "male loneliness epidemic", but few studies have investigated this idea
@@ -27,7 +27,7 @@ Hello there! My name is Jo, and I'm an upcoming graduate from the University of 
 - I suggest that this difference might be due to gender roles and expectations of women within relationships, and these findings also challenge the idea that there is a (_male_) loneliness epidemic
 - Broadly, these findings can be used to encourage more research into understanding the challenges and stressors that women face in relationships so that we can understand how to better support them
 
-### Drawing promotes memory retention in a patient with sleep-related anterograde amnesia
+## Drawing promotes memory retention in a patient with sleep-related anterograde amnesia
 
 Matorina, N., Meade, M. E., Starenky, J., & Barense, M. D. (2024). Drawing promotes memory retention in a patient with sleep-related anterograde amnesia. Memory & Cognition. [DOI:10.3758/s13421-024-01613-9](https://doi.org/10.3758/s13421-024-01613-9)
 
@@ -42,7 +42,7 @@ Matorina, N., Meade, M. E., Starenky, J., & Barense, M. D. (2024). Drawing promo
 - We found that drawing is a powerful encoding tool and supports memory in a patient with sleep-dependent amnesia
 - We also found that CT showed evidence of memory for drawn words after sleep, but not for written words, further suggesting that CT's memory benefitted from drawing. More broadly, our results suggest that drawing may facilitate memory retention by engaging visual processing regions of the brain, and that these regions may be less susceptible to transformation during sleep.
 
-### Neural activity decreases in synchronicity over shared learning experiences
+## Neural activity decreases in synchronicity over shared learning experiences
 
 - Knowledge and expertise can affect neural activity, and shared experiences can result in shared neural patterns among individuals
 - Here, we investigated whether an increase in expertise results in increased synchronization in neural activity in higher-order areas
