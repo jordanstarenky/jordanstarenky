@@ -29,7 +29,7 @@ Hello there! My name is Jo, and I'm an upcoming graduate from the University of 
 
 ### Drawing promotes memory retention in a patient with sleep-related anterograde amnesia
 
-Matorina, N., Meade, M. E., Starenky, J., & Barense, M. D. (2024). Drawing promotes memory retention in a patient with sleep-related anterograde amnesia. Memory & Cognition. [doi](https://doi.org/10.3758/s13421-024-01613-9)
+Matorina, N., Meade, M. E., Starenky, J., & Barense, M. D. (2024). Drawing promotes memory retention in a patient with sleep-related anterograde amnesia. Memory & Cognition. [DOI:10.3758/s13421-024-01613-9](https://doi.org/10.3758/s13421-024-01613-9)
 
 - Previous work in patient with probable dementia showed a benefit to using drawing as an encoding mechanism, possibly due to the preservation of visual processing regions
 - Patient CT (aged 19 years)presented with a tumour directly above both fornices and invading the right fornix
