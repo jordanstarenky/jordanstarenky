@@ -6,7 +6,7 @@ Hello there!
  I'm Jo Starenky, an upcoming graduate from the University of Toronto with an HBSc in Psychology with a focus on cognition and cognitive neuroscience — I'm fascinated by how people think, learn, and retain information. Please feel free to check out my past research projects here!
  
 ## Education	 			        		
-- Honours B.Sc., Psychology | The University of Toronto (_May 2025_)
+- Honours B.Sc., Psychology @ The University of Toronto (_May 2025_)
 - Published in Memory & Cognition (2024) (see below for more details)
 - Presented at the Lake Ontario Visionary Establishment Conference (2023)
 
